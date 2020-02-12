@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">John Robin Sapan\'s Diet Form 991495199</string>
+    <string name="dietary_restrictions">Dietary Restrictions:</string>
+    <string name="gluten_free">Gluten-free</string>
+    <string name="lactose_free">Lactose-free</string>
+    <string name="non_vegetarian">Non-vegetarian</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="vegan">Vegan</string>
+    <string name="submit">SUBMIT</string>
+    <string name="clear">CLEAR</string>
+    <string name="dietary_restrictions_result">Dietary restrictions.</string>
+</resources>
